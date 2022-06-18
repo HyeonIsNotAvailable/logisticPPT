@@ -24,7 +24,7 @@ function setup() {
      txt_signature = createElement("text", " ")
 
      txt_signature.position(width-190, height)
-     txt_signature.html("ⓒ 공돌이의 수학정리노트")
+     txt_signature.html("30527 황민지 / ##### ㅇㅇㅇ")
 }
 
 
